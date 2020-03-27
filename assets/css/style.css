@@ -50,6 +50,10 @@ p {
     font-size: 16px;
 }
 
+.span {
+    color: green;
+}
+
 .hero {
     height: 800px;
     width: 100%;
